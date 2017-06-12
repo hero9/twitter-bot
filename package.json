@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Nodejs twitter bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hero9/twitter-bot.git"
+  },
+  "author": "Almabek Galym",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hero9/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/hero9/twitter-bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
+}
